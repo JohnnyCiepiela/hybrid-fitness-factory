@@ -23,7 +23,7 @@ html {
 
 body {
     position: relative;
-    background-image: url(images/running.jpg);
+    background-image: url(running.jpg);
     background-attachment: fixed;
     background-position: 50%;
     background-repeat: no-repeat;
@@ -41,7 +41,7 @@ body {
 
 @media(max-width:1200px)and (orientation:portrait) {
     body {
-        background-image: url(images/running.jpg)
+        background-image: url(running.jpg)
     }
 }
 
@@ -228,7 +228,7 @@ body nav ul li a:hover:after {
 
 header {
     position: relative;
-    background-image: url(../images/strength.jpg);
+    background-image: url(strength.jpg);
     background-attachment: fixed;
     background-position: 50%;
     background-repeat: no-repeat;
@@ -359,7 +359,7 @@ header:after {
 
 @media(min-width:769px)and (max-width:1023px)and (orientation:portrait) {
     header {
-        background-image: url(images/running.jpg);
+        background-image: url(running.jpg);
         background-position: 50%;
         background-repeat: no-repeat
     }
@@ -379,7 +379,7 @@ header:after {
 
 @media(min-width:1024px)and (max-width:1366px)and (orientation:portrait) {
     header {
-        background-image: url(images/running.jpg);
+        background-image: url(running.jpg);
         background-position: 50%;
         background-repeat: no-repeat
     }
@@ -423,7 +423,7 @@ header:after {
 
 @media(min-width:732px)and (max-width:823px)and (orientation:landscape) {
     header {
-        background-image: url(images/running.jpg);
+        background-image: url(running.jpg);
         background-position: 50%;
         background-repeat: no-repeat
     }
@@ -443,7 +443,7 @@ header:after {
 
 @media(width:812px)and (orientation:landscape) {
     header {
-        background-image: url(images/running.jpg);
+        background-image: url(running.jpg);
         background-position: 50%;
         background-repeat: no-repeat
     }
@@ -1148,7 +1148,7 @@ section.offer .wrapedDown {
     flex-direction: column;
     align-items: center;
     position: relative;
-    background-image: url(../images/running.jpg);
+    background-image: url(running.jpg);
     background-attachment: fixed;
     background-position: 50%;
     background-repeat: no-repeat;
@@ -1247,7 +1247,7 @@ section.offer .wrapedDown {
 
 @media(max-width:1200px)and (orientation:portrait) {
     .about {
-        background-image: url(images/running.jpg);
+        background-image: url(running.jpg);
         padding: 0 0 4%;
         max-width: 100vw
     }
@@ -1457,7 +1457,7 @@ section.offer .wrapedDown {
     flex-direction: column;
     align-items: center;
     position: relative;
-    background-image: url(images/running.jpg);
+    background-image: url(running.jpg);
     background-attachment: fixed;
     background-position: 50%;
     background-repeat: no-repeat;
@@ -1571,7 +1571,7 @@ section.offer .wrapedDown {
     .contact {
         -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
         clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
-        background-image: url(images/running.jpg)
+        background-image: url(running.jpg)
     }
     .contact form {
         width: 70%
@@ -1585,7 +1585,7 @@ section.offer .wrapedDown {
     .contact {
         padding-top: 10vh;
         max-width: 100vw;
-        background-image: url(images/running.jpg)
+        background-image: url(running.jpg)
     }
     .contact:after {
         background-color: rgba(0, 0, 0, .6)
