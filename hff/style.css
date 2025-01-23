@@ -23,7 +23,7 @@ html {
 
 body {
     position: relative;
-    background-image: url(/running.jpg);
+    background-image: url(/hff/running.jpg);
     background-attachment: fixed;
     background-position: 50%;
     background-repeat: no-repeat;
@@ -41,7 +41,7 @@ body {
 
 @media(max-width:1200px)and (orientation:portrait) {
     body {
-        background-image: url(/groundgameipad.f143efb2.webp)
+        background-image: url(/hff/running.jpg)
     }
 }
 
@@ -359,7 +359,7 @@ header:after {
 
 @media(min-width:769px)and (max-width:1023px)and (orientation:portrait) {
     header {
-        background-image: url(/bjjbgipad.c0dddc50.webp);
+        background-image: url(/hff/running.jpg);
         background-position: 50%;
         background-repeat: no-repeat
     }
@@ -379,7 +379,7 @@ header:after {
 
 @media(min-width:1024px)and (max-width:1366px)and (orientation:portrait) {
     header {
-        background-image: url(/bjjbgipad.c0dddc50.webp);
+        background-image: url(/hff/running.jpg);
         background-position: 50%;
         background-repeat: no-repeat
     }
@@ -423,7 +423,7 @@ header:after {
 
 @media(min-width:732px)and (max-width:823px)and (orientation:landscape) {
     header {
-        background-image: url(/bjjbgipad.c0dddc50.webp);
+        background-image: url(/hff/running.jpg);
         background-position: 50%;
         background-repeat: no-repeat
     }
@@ -443,7 +443,7 @@ header:after {
 
 @media(width:812px)and (orientation:landscape) {
     header {
-        background-image: url(/bjjbgipad.c0dddc50.webp);
+        background-image: url(/hff/running.jpg);
         background-position: 50%;
         background-repeat: no-repeat
     }
@@ -1163,7 +1163,7 @@ section.offer .wrapedDown {
     z-index: 1
 }
 
-.about .header .#23b8fb {
+.about .header {
     color: #23b8fb
 }
 
@@ -1188,7 +1188,7 @@ section.offer .wrapedDown {
     margin: 0 50px
 }
 
-.about .trainers div h3 .#23b8fb {
+.about .trainers div h3 {
     color: #23b8fb
 }
 
@@ -1215,7 +1215,7 @@ section.offer .wrapedDown {
         font-size: 66px;
         margin: 3vh 0 0
     }
-    .about .header .#23b8fb {
+    .about .header {
         color: #23b8fb
     }
     .about .trainers {
@@ -1247,7 +1247,7 @@ section.offer .wrapedDown {
 
 @media(max-width:1200px)and (orientation:portrait) {
     .about {
-        background-image: url(/groundgameipad.f143efb2.webp);
+        background-image: url(/hff/running.jpg);
         padding: 0 0 4%;
         max-width: 100vw
     }
@@ -1255,7 +1255,7 @@ section.offer .wrapedDown {
         font-size: 66px;
         margin: 3vh 0 0
     }
-    .about .header .#23b8fb {
+    .about .header {
         color: #23b8fb
     }
     .about .trainers {
@@ -1296,7 +1296,7 @@ section.offer .wrapedDown {
         font-size: 66px;
         margin: 3vh 0 0
     }
-    .about .header .#23b8fb {
+    .about .header {
         color: #23b8fb
     }
     .about .trainers {
@@ -1334,7 +1334,7 @@ section.offer .wrapedDown {
         font-size: 52px;
         margin: 0 15px
     }
-    .about .header .#23b8fb {
+    .about .header {
         color: #23b8fb
     }
     .about .trainers {
@@ -1364,7 +1364,7 @@ section.offer .wrapedDown {
         font-size: 52px;
         margin: 0 15px
     }
-    .about .header .#23b8fb {
+    .about .header {
         color: #23b8fb
     }
     .about .trainers {
@@ -1457,7 +1457,7 @@ section.offer .wrapedDown {
     flex-direction: column;
     align-items: center;
     position: relative;
-    background-image: url(/running.jpg);
+    background-image: url(/hff/running.jpg);
     background-attachment: fixed;
     background-position: 50%;
     background-repeat: no-repeat;
@@ -1571,7 +1571,7 @@ section.offer .wrapedDown {
     .contact {
         -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
         clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
-        background-image: url(/groundgameipad.f143efb2.webp)
+        background-image: url(/hff/running.jpg)
     }
     .contact form {
         width: 70%
@@ -1585,7 +1585,7 @@ section.offer .wrapedDown {
     .contact {
         padding-top: 10vh;
         max-width: 100vw;
-        background-image: url(/groundgame2.6fb23f73.webp)
+        background-image: url(/hff/running.jpg)
     }
     .contact:after {
         background-color: rgba(0, 0, 0, .6)
